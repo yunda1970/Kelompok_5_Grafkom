@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #define PI 3.14
 
-// Variabel Kamera (Menentukan Posisi Awal Kamera)
+// menambahkan kamera (Menentukan Posisi Awal Kamera)
 float angle=0.0, deltaAngle = 0.0, ratio;
 float x=-10.0f,y=25.0f,z=160.0f; // posisi awal kamera
 float lx=0.0f,ly=0.0f,lz=-1.0f;
