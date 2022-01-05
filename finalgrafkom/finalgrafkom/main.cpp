@@ -407,7 +407,7 @@ void display() {
 	glutSwapBuffers();
 }
 
-// Memanggil Fungsi Untuk Manampilkan Objek Di Layar
+// Memanggil Fungsi Untuk Manampilkan Objek Di Layaran
 int main(int argc, char **argv)
 {
 	glutInit(&argc, argv);
